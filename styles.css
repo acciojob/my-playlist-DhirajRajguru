@@ -4,3 +4,18 @@ body{
 }
 #playlist>ul>li{list-style-type:none;}
 a{text-decoration-line:none;}
+.player_one{
+	background-color:rgb(255, 255, 255);
+	padding:10px;
+	border-radius:10px;
+}
+.player_two{
+	background-color:rgb(255, 255, 255);
+	padding:10px;
+	border-radius:10px;
+}
+
+
+
+
+
