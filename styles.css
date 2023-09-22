@@ -2,7 +2,7 @@
 body{
 	background-color:rgb(204, 204, 204);
 }
-#player_one>ul>li{list-style-type:none;}
+.player_one>ul>li{list-style-type:none;}
 a{text-decoration-line:none;}
 .player_one{
 	background-color:rgb(255, 255, 255);
